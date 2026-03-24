@@ -29,6 +29,8 @@ export interface Plan {
   max_users: number;
 }
 
+export type UserRole = 'owner' | 'admin' | 'viewer';
+
 export interface TenantConfig {
   id: string;
   slug: string;
@@ -38,4 +40,5 @@ export interface TenantConfig {
   branding: Branding;
   plan: Plan;
   channels: TenantChannel[];
+  user_role: UserRole;
 }

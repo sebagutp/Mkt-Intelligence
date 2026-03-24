@@ -366,9 +366,9 @@ GOOGLE_ADS_DEV_TOKEN=xxx
 
 | Sprint | Estado | HUs completadas |
 |--------|--------|-----------------|
-| 0 — Scaffold + Infra | 🔲 Pendiente | — |
-| 1 — Pipeline E2E | 🔲 Pendiente | — |
-| 2 — Canales restantes | 🔲 Pendiente | — |
-| 3 — Intelligence | 🔲 Pendiente | — |
-| 4 — White-label | 🔲 Pendiente | — |
-| 5 — Polish + Deploy | 🔲 Pendiente | — |
+| 0 — Scaffold + Infra | ✅ Completo | HU-001, HU-002, HU-003 |
+| 1 — Pipeline E2E | ✅ Completo | HU-004 a HU-008 |
+| 2 — Canales restantes | ✅ Completo | HU-009 a HU-012 |
+| 3 — Intelligence | ✅ Completo | HU-013 a HU-016 |
+| 4 — White-label | ✅ Completo | HU-017 (provisioning), HU-018 (branding) |
+| 5 — Polish + Deploy | ✅ Completo | HU-019 (export/reports), HU-020 (token refresh), HU-021 (deploy docs) |

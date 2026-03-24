@@ -1,4 +1,5 @@
 import { FileText } from 'lucide-react';
+import { ReportsPanel } from '@/components/panels/ReportsPanel';
 
 export function ReportsPage() {
   return (
@@ -7,9 +8,7 @@ export function ReportsPage() {
         <FileText size={24} />
         Reports
       </h1>
-      <p className="text-gray-500 dark:text-gray-400">
-        Reports panel will be implemented in a future sprint.
-      </p>
+      <ReportsPanel />
     </div>
   );
 }
