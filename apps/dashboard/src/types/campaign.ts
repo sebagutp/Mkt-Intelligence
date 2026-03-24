@@ -1,0 +1,2 @@
+// Campaign, CampaignDetail — placeholder
+export {}

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-primary: #2563eb;
+  --brand-accent: #f59e0b;
+}
+
+.dark {
+  --brand-primary: #3b82f6;
+  --brand-accent: #fbbf24;
+}
